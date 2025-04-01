@@ -74,7 +74,7 @@ mvn test
 ```
 
 ## Despliegue en la Nube
-El sistema está diseñado para ser desplegado en plataformas como AWS, GCP o Azure usando contenedores Docker y bases de datos gestionadas.
+El sistema está diseñado para ser desplegado en plataformas como AWS, GCP o Azure usando contenedores Docker y bases de datos MySQL.
 
 ---
-**Desarrollado por**: Carlos Felipe Dominguez Ilera
+**Desarrollado por**: Carlos Felipe Dominguez Illera
