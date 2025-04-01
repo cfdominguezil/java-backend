@@ -69,7 +69,7 @@ http://localhost:1234/swagger-ui/index.html
 ## Pruebas Unitarias
 Para ejecutar las pruebas unitarias con JUnit y Mockito se deben correr los siguientes comandos:
 ```sh
-mvn test  # Si usas Maven
+mvn test  
 
 ```
 
